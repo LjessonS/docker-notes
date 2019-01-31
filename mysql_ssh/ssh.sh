@@ -2,7 +2,7 @@
 
 set port 10025
 set user root
-set host 172.16.56.2
+set host algoers.com
 set password pwd
 set timeout 30
 
