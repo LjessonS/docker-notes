@@ -1,1 +1,1 @@
-docker rmi hdc_base:v1
+docker rmi ls_ub_ssh:v1
